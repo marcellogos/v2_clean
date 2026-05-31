@@ -1,0 +1,65 @@
+{
+  "session": {
+    "active": true,
+    "email": "marcello.gosse@cbs-mail.de",
+    "name": "Marcello Gosse",
+    "token": "0fa14a9196e67b2663b09b04cb46534e861dd203d8a4a99da4c698a59e308f4e",
+    "profile": {
+      "name": "Marcello Gosse",
+      "email": "marcello.gosse@cbs-mail.de",
+      "course": "Digital Literacy (Prof. Stratmann)",
+      "degree": "B.Sc. International Business",
+      "semester": "Semester 1",
+      "traits": {
+        "leadership": 3,
+        "analytical": 3,
+        "complexity": 5,
+        "research": 2,
+        "vision": 3
+      },
+      "strengths": [
+        "Agile Methodology",
+        "Data Visualization",
+        "Project Coordination"
+      ],
+      "weaknesses": [
+        "Conflict Avoidance",
+        "Detail Blindness"
+      ]
+    }
+  },
+  "kanbanTasks": null,
+  "workspaceState": null,
+  "users": [
+    {
+      "email": "marcello.gosse@cbs-mail.de",
+      "name": "Marcello Gosse",
+      "password": "123456"
+    }
+  ],
+  "profiles": {
+    "marcello.gosse@cbs-mail.de": {
+      "name": "Marcello Gosse",
+      "email": "marcello.gosse@cbs-mail.de",
+      "course": "Digital Literacy (Prof. Stratmann)",
+      "degree": "B.Sc. International Business",
+      "semester": "Semester 1",
+      "traits": {
+        "leadership": 3,
+        "analytical": 3,
+        "complexity": 5,
+        "research": 2,
+        "vision": 3
+      },
+      "strengths": [
+        "Agile Methodology",
+        "Data Visualization",
+        "Project Coordination"
+      ],
+      "weaknesses": [
+        "Conflict Avoidance",
+        "Detail Blindness"
+      ]
+    }
+  }
+}
